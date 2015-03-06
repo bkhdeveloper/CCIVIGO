@@ -1,0 +1,5 @@
+C:\Users\user1\AndroidStudioProjects\CCIVIGO\app\build\intermediates\classes\release
+C:\Users\user1\AndroidStudioProjects\CCIVIGO\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-08142bcecf3224ae88c6356e190771a48ffe1f50.jar
+C:\Users\user1\AndroidStudioProjects\CCIVIGO\app\build\intermediates\pre-dexed\release\android-query.0.26.7-15071c85d87ab5374124a18aee393a1999d97dd9.jar
+C:\Users\user1\AndroidStudioProjects\CCIVIGO\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-f08c5aa0540ecabd68dec32fe59b9ae380824db7.jar
+C:\Users\user1\AndroidStudioProjects\CCIVIGO\app\build\intermediates\pre-dexed\release\classes-df4055dc32a338a46775da23d87bc7e536ee8280.jar

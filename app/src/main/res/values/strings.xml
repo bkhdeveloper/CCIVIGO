@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lab_fajr">Fajr</string>
+    <string name="lab_sun">Salida del sol</string>
+    <string name="lab_dhohr">Dhuhr</string>
+    <string name="lab_asr">Asr</string>
+    <string name="lab_maghreb">Maghrib</string>
+    <string name="lab_isha">Ishaa</string>
+    <string name="lab_jomaa">Viernes</string>
+    <string name="lab_hora_jomaa">14:30</string>
+    <string name="lab_jomaa_hoy">(hoy)</string>
+    <string name="app_name">CCIVIGO</string>
+    <string name="app_name_long">Centro Cultural Islámico en Vigo</string>
+    <string name="lab_btnccivigo">El Centro</string>
+    <string name="title_login">Authenticacion</string>
+    <string name="lab_connect">Conectar</string>
+    <string name="lab_btnobjectif">Objetivos</string>
+    <string name="lab_btnpredication">Predicación</string>
+    <string name="lab_btncontact">Contacto</string>
+    <string name="lab_btnoracion">Horas de Oracion en Vigo</string>
+
+    <string-array name="Fragments_List">
+        <item>Inicio</item>
+        <item>El Centro</item>
+        <item>Objetivos</item>
+        <item>Predicación</item>
+        <item>Contacto</item>
+        <item>Oracion</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="lab_intro">El Centro Cultural Islámico en Vigo está atento a todos sus comentarios y sugerencias. No dude en ponerse en contacto con nosotros:</string>
+    <string name="lab_nom">Su nombre</string>
+    <string name="lab_objet">Asunto</string>
+    <string name="lab_message">Mensaje</string>
+    <string name="lab_details">Direccion: Calle Canadelo Alto 56 Bajo, CP 36206 Vigo, ESPAÑA.\Teléfono: +34664166971\nEmail: info@ccivigo.org\n<b>El Centro se financia gracias a las contribuciones voluntarias de particulares y instituciones públicas. Con una donacion podrás dar sadaqa, pagar tu zakat o colaborar en la financiación de los proyectos del CCIVIGO. Puedes utilizar Paypal para donar en el buton derecha, O si lo prefieres, realizar un ingreso en la siguiente Cuenta:\nBanco: CAIXA\nCUENTA: 2100 2292 17 0100512616\nIBAN: ES29 2100 2292 1701 0051 2616</b></string>
+    <string name="lab_enviar">Enviar</string>
+    <string name="lab_ccvigo"><b>El Centro Cultural Islámico en Vigo</b> es una institución cultural y apolítica sin ánimo de lucro. La COMUNIDAD ISLAMICO DE VIGO, con N.I.F. R-3600399D, es una entidad sin carácter lucrativo, inscrita con fecha de 16/09/2010 en el Registro de Asociaciones del Ministerio de Justicia del Interior nº 7806-SE/A.
+        \nEl Centro atiende a estrechar los lazos de amistad entre musulmanes y el resto de la sociedad española, convencidos del enriquecimiento que conlleva una sociedad multicultural basada en el respeto y conocimiento mutuo emprendiendo acciones de acogida e información, formación actividades sociales y culturales formación etc..
+        \nHoy en día el CCIVIGO se considera uno de los centros culturales islámico líderes en España y sobre todo en la comunidad de Galicia a cara de participación y calidad de enseñanza.
+        \nEl número total de los alumnos matriculados en este curso son más de 90 alumnos de destintas nacionalidades, musulmanes no musulmanes, árabes no árabes y otros interesados en aprender la lengua árabe.
+        \nSe imparten las clases de 5 niveles escolares, dos dias por semana con una media de cinco horas por semana.</string>
+    <string name="lab_objectivos1">Promover la correcta fe musulmana a través de un programa de formación escalonado</string>
+    <string name="lab_objectivos2">Preparar un ambiente adecuado para el ejercicio de las prácticas religiosas de acuerdo con las enseñanzas del Islam</string>
+    <string name="lab_objectivos3">Proteger a la juventud musulmana de la desviación y la ignorancia acerca de su religión por el desarrollo de programa educativo, cultural adecuado</string>
+    <string name="lab_objectivos4">Promover la verdadera imagen del Islam, lejos de los estereotipos y las ideas falsas , y corregir algunos conceptos erróneos sobre el Islam y los musulmanes, señalando que el Islam es una religión de la moderación y el equilibrio con exclusión de toda forma del exceso y del extremismo</string>
+    <string name="lab_objectivos5">Hacer descubrir al pueblo español  la civilización y la cultura musulmana y poner a  su disposición una biblioteca, folletos, libros y otros medios de comunicación</string>
+    <string name="lab_predicacion">En Constuccion</string>
+    <string name="title_activity_act_ccivigo">CCIVIGO</string>
+    <string name="title_activity_act_contacto">Contacto</string>
+    <string name="title_activity_act_objectivos">Objectivos</string>
+    <string name="title_activity_act_predicacion">Predicacion</string>
+    <string name="lab_synchor_runing">Cargando....</string>
+    <string name="lab_error_emptyName">Usted debe poner un nombre</string>
+    <string name="lab_error_emptyObjet">Usted debe poner un Asunto</string>
+    <string name="lab_error_emptyMessage">Usted debe poner un Mensaje</string>
+    <string name="action_settings">Parametros</string>
+    <string name="menu_settings">Menu</string>
+    <string name="title_activity_settings">Parametros</string>
+    <string name="lbl_acerca_de">Acerca de...</string>
+    <string name="btn_settings_donar">Donar</string>
+    <string name="lbl_language">العربية</string>
+    <string name="title_donar">Donar</string>
+    <string name="lab_acerca_de">Web: info@ccivigo.org\nEmail: www.ccivigo.org\nVersion: </string>
+    <string name="lab_donar">Su donación ayuda a que esta aplicación mejore. \nDesde ya muchas gracias!</string>
+    <string name="action_settings_acceuil">Parametros</string>
+    <string name="connectivity_down">compruebe su conexión</string>
+    <string name="lbl_redes">Redes sociales</string>
+    <string name="lab_menu">Clic aquí</string>
+    <string name="lab_footer">Direccion: Calle Canadelo Alto 56 Bajo, CP36206 Vigo, ESPAÑA.
+        \nTeléfono: +34664166971
+        \nEmail: info@ccivigo.org
+        \nBanco: CAIXA
+        \nCUENTA: 2100 2292 17 0100512616
+        \nIBAN: ES29 2100 2292 1701 0051 2616
+    </string>
+    <string name="lbl_exit">Exit</string>
+    <string name="lab_title_horacion">La hora de Oración</string>
+    <string name="lab_title_ikama">La hora de Ikama</string>
+    <string name="lab_error">Error</string>
+    <string name="btn_donar">Donar</string>
+    <string name="lab_ciudad">Error</string>
+    <string-array name="HejriMonths">
+        <item>Safar</item>
+        <item>Rabi al-awwal</item>
+        <item>Rabi al-akhar</item>
+        <item>Jumada al-awwal</item>
+        <item>Jumada al-akhira</item>
+        <item>Rajab</item>
+        <item>Shaban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul-qadah</item>
+        <item>Dhul-hijjah</item>
+    </string-array>
+    <string name="lab_salat">Hora</string>
+    <string name="lab_ikama">Iqama</string>
+    <string name="lbl_compartir">Enviar a un amigo</string>
+    <string name="lbl_compartir_msg">Déjame que te recomiendo nuestra aplicación:</string>
+    <string name="lbl_compartir_title">Elegir uno para enviar</string>
+    <string name="lab_menu_menu">Menù</string>
+</resources>

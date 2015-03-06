@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/id_donate"
+        android:title="@string/btn_settings_donar"
+        ></item>
+    <item
+        android:id="@+id/id_acerca_de"
+        android:title="@string/lbl_acerca_de"
+        ></item>
+    <item
+        android:id="@+id/id_idioma"
+        android:title="@string/lbl_language"
+        android:showAsAction="always"
+        />
+    <!--<item
+        android:id="@+id/menu_settings"
+        android:title="@string/action_settings"
+        />-->
+    <item
+        android:id="@+id/id_compartir"
+        android:title="@string/lbl_compartir"
+        />
+    <item
+        android:id="@+id/id_exit_app"
+        android:title="@string/lbl_exit"
+        android:orderInCategory="100"/>
+</menu>

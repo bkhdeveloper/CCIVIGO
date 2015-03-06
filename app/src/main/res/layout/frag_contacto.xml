@@ -1,0 +1,49 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"        >
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/lab_intro"/>
+        <EditText
+            android:id="@+id/AAccontacto_EdName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/lab_nom"
+            android:textStyle="bold" />
+        <EditText
+            android:id="@+id/AAccontacto_EdObjet"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/lab_objet"
+            android:inputType="textEmailAddress"
+            android:textStyle="bold" />
+        <EditText
+            android:id="@+id/AAccontacto_EdMessage"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:hint="@string/lab_message"
+            android:inputType="textMultiLine"
+            android:textStyle="bold" />
+        <Button
+            style="@style/StyleButton"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="@string/lab_enviar"
+            android:id="@+id/btnEnviarMail" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/lab_details"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

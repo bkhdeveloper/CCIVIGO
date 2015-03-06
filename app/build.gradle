@@ -1,0 +1,24 @@
+import java.util.regex.Pattern
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+    defaultConfig {
+        applicationId "app.ccivigo.org"
+        minSdkVersion 8
+        targetSdkVersion 21
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt')
+        }
+    }
+}
+dependencies {
+    compile 'com.android.support:support-v4:21.0.3'
+    //compile 'com.google.android.gms:play-services:4.3.23'
+    //compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile project(':android-query.0.26.7')
+}

@@ -1,0 +1,5 @@
+C:\Users\Hamdi\workspace\ccivigo\app\build\intermediates\classes\debug
+C:\Users\Hamdi\workspace\ccivigo\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-4a97ae1d407f21eecdd3e495c454bc99c4375401.jar
+C:\Users\Hamdi\workspace\ccivigo\app\build\intermediates\pre-dexed\debug\android-query.0.26.7-304d9bd6ed5f384b9780b746aa157da8da3177c3.jar
+C:\Users\Hamdi\workspace\ccivigo\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-da3c3d3e112e8481839d9df4e8ff794fbfb5d221.jar
+C:\Users\Hamdi\workspace\ccivigo\app\build\intermediates\pre-dexed\debug\classes-36f4163b170feebe04aa249a688f734dbcb9595b.jar

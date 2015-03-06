@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lab_fajr">الفجر</string>
+    <string name="lab_sun">الشروق </string>
+    <string name="lab_dhohr">الظهر</string>
+    <string name="lab_asr">العصر</string>
+    <string name="lab_maghreb">المغرب </string>
+    <string name="lab_isha">العشاء</string>
+    <string name="lab_jomaa">الجمعة</string>
+    <string name="lab_hora_jomaa">14:30</string>
+    <string name="lab_jomaa_hoy">(اليوم)</string>
+    <string name="app_name">CCIVIGO</string>
+    <string name="app_name_long">المركز الثقافي الإسلامي في فيجو</string>
+    <string name="lab_btnccivigo">المركز</string>
+    <string name="title_login">Authenticacion</string>
+    <string name="lab_connect">اتصال </string>
+    <string name="lab_btnobjectif">الأهداف</string>
+    <string name="lab_btnpredication">الدعوة</string>
+    <string name="lab_btncontact">الإتصال بنا</string>
+    <string name="lab_btnoracion">مواقيت الأذان في فيجو</string>
+
+    <string-array name="Fragments_List">
+        <item>الصفحة الرئيسية</item>
+        <item>المركز</item>
+        <item>الأهداف</item>
+        <item>الدعوة</item>
+        <item>الإتصال بنا</item>
+        <item>مواقيت الأذان</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="lab_intro">المركز الثقافي الإسلامي في فيغو هو يقظ لجميع تعليقاتكم والاقتراحات. لا تترددوا في الاتصال بنا:</string>
+    <string name="lab_nom">اسمك</string>
+    <string name="lab_objet">الموضوع</string>
+    <string name="lab_message">الرسالة</string>
+    <string name="lab_details">العنوان: 56 شارع Canadelo Alto، فيجو، إسبانيا
+\nهاتف: 0034664166971
+\nالبريد الإلكتروني: info@ccivigo.org
+\nيتم تمويل المركز من تبرعات الأفراد والمؤسسات العامة.
+\nبتبرع يمكنك إعطاء صدقة، ودفع الزكاة أو المساعدة في تمويل مشاريع المركز. يمكنك استخدام PAYPAL، أو إذا كنت تفضل تقديم وديعة في الحساب البنكي التالي:
+\nإسم البنك: CAIXA
+\nرقم الحساب: 2100 2292 17 0100512616
+\nIBAN: ES29 2100 2292 1701 0051 2616</string>
+    <string name="lab_enviar">أرسل</string>
+    <string name="lab_ccvigo">المركز الثقافي الإسلامي في فيجو هي مؤسسة غير ربحية و غير سياسية. مسجلة في الجبهة القومية الإسلامية تحت رقم R-3600399D. هي منظمة غير هادفة للربح،أسست بتاريخ 16/09/2010 و مسجلة أيضاً في سجل الجمعيات في وزارة العدل عن رقم 7806-SE/A . تم تكوين المركز بالأساس لتعزيز أواصر الصداقة بين المسلمين وبقية المجتمع الإسباني المسلم.</string>
+    <string name="lab_objectivos1">تعريف الجالية المسلمة بالعقيدة الإسلامية الصحيحة</string>
+    <string name="lab_objectivos2">تهيئة الجو المناسب لإقامة العبادات والشعائر الإسلامية إقامة صحيحة على هدي المصطفى صلى الله عليه وسلم</string>
+    <string name="lab_objectivos3">حماية أبناء المسلمين من الانحراف والجهل بدينهم وإقامة البرامج التعليمية والدعوية المناسبة لهم</string>
+    <string name="lab_objectivos4">إبراز حقيقة الإسلام وتصحيح المفاهيم الخاطئة عن الإسلام والمسلمين وتأكيد و سطية الإسلام واعتدال منهجه وبعده عن الغلو والتطرف</string>
+    <string name="lab_objectivos5">اطلاع الرأي العام الاسباني على حضارة الإسلام وثقافته وتزويدهم بالكتب والنشرات وغير ذلك</string>
+    <string name="lab_predicacion">تحت الإنشاء</string>
+    <string name="title_activity_act_ccivigo">المركز الثقافي الإسلامي في فيجو</string>
+    <string name="title_activity_act_contacto">الإتصال بنا</string>
+    <string name="title_activity_act_objectivos">اهدافنا</string>
+    <string name="title_activity_act_predicacion"></string>
+    <string name="lab_synchor_runing">تحميل ....</string>
+    <string name="lab_error_emptyName">يجب عليك ان تضع اسم</string>
+    <string name="lab_error_emptyObjet">يجب عليك ان تضع موضوع</string>
+    <string name="lab_error_emptyMessage">يجب عليك وضع رسالة</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="menu_settings">القائمة</string>
+    <string name="title_activity_settings">الإعدادات</string>
+    <string name="lbl_acerca_de">حول التطبيق...</string>
+    <string name="btn_settings_donar">التبرع</string>
+    <string name="lbl_language">Español</string>
+    <string name="title_donar">السلام عليكم</string>
+    <string name="lab_acerca_de">Web: info@ccivigo.org\nEmail: www.ccivigo.org\nVersion: </string>
+    <string name="lab_donar">يتم تمويل المركز من التبرعات من الأفراد والمؤسسات. بتبرع يمكنك إعطاء صدقة، ودفع الزكاة أو المساعدة في تمويل مشاريع المركز. يمكنك استخدام Paypal للتبرع. جزاكم الله كل خير و جعله في ميزان حسناتك</string>
+    <string name="action_settings_acceuil">الإعدادات</string>
+    <string name="connectivity_down">التحقق من اتصالك</string>
+    <string name="lbl_redes">الشبكات الاجتماعية</string>
+    <string name="lab_menu">انقر هنا</string>
+    <string name="lab_footer">العنوان: 56 شارع العليا Canadelo منخفضة، CP 36206 فيغو، إسبانيا.\nهاتف: +34664166971\nالبريد الإلكتروني: info@ccivigo.org\nاسم البنك: CAIXA\nرقم الحساب: 2100 2292 17 0100512616\nIBAN: ES29 2100 2292 1701 0051 2616
+    </string>
+    <string name="lbl_exit">الخروج</string>
+    <string name="lab_title_horacion">مواقيت الأذان</string>
+    <string name="lab_title_ikama">مواقيت الصلاة</string>
+    <string name="lab_error">خطأ</string>
+    <string name="lab_ciudad">خطأ</string>
+    <string name="btn_donar">أتبرع بما كتب الله</string>
+    <string-array name="HejriMonths">
+        <item>صفر </item>
+        <item>ربيع الأول</item>
+        <item>ربيع الأول</item>
+        <item>جمادى الأول</item>
+        <item>جمادى الثاني</item>
+        <item>رجب</item>
+        <item>شعبان</item>
+        <item>رمضان </item>
+        <item>شوال</item>
+        <item>ذو القعدة</item>
+        <item>ذو الحجة</item>
+    </string-array>
+    <string name="lab_salat">الأذان</string>
+    <string name="lab_ikama">الإقامة</string>
+    <string name="lbl_compartir">إرسال إلى صديق</string>
+    <string name="lbl_compartir_msg">اسمحوا لي بأن اشارككم تطبيقنا</string>
+    <string name="lbl_compartir_title">إختر واحدة للمشاركة</string>
+    <string name="lab_menu_menu">القائمة</string>
+</resources>
